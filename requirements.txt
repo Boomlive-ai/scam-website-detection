@@ -1,0 +1,19 @@
+regex
+urllib3==1.26.6
+uvicorn
+fastapi
+requests
+pydantic
+gunicorn
+httptools
+numpy
+# pickle5  # Not needed for Python 3.8+
+python-whois
+beautifulsoup4
+pyopenssl
+json2html
+tqdm
+python-Levenshtein
+# ail-typo-squatting  # Has uvloop dependency - doesn't work on Windows
+lightgbm
+firebase-admin==6.1.0

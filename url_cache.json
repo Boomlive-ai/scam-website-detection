@@ -1,0 +1,68 @@
+{
+  "6ac8885e843d056ff36a14754227942d": {
+    "timestamp": "2025-11-03T16:42:04.006874",
+    "url": "https://broadband.mvt.so",
+    "result": {
+      "SCORE": 50,
+      "RISK_LEVEL": "MEDIUM",
+      "CONFIDENCE": 60.0,
+      "checks_completed": 6,
+      "InTop1Million": false,
+      "InURLVoidBlackList": false,
+      "isHTTPS": true,
+      "hasSSLCertificate": true,
+      "GoogleSafePassed": true,
+      "VirusTotalDetections": 7,
+      "InURLHaus": false,
+      "isTemporaryDomain": false,
+      "isBlackListedinIpSets": false,
+      "isDirectIP": false,
+      "hasMaliciousExtension": false,
+      "target_urls": []
+    }
+  },
+  "5fd41815f1df5dbbfa4e69fdab03efb6": {
+    "timestamp": "2025-11-03T16:42:27.172096",
+    "url": "https://www.siteadvisor.com",
+    "result": {
+      "SCORE": 5,
+      "RISK_LEVEL": "SAFE",
+      "CONFIDENCE": 100,
+      "checks_completed": 2,
+      "InTop1Million": true,
+      "InURLVoidBlackList": false,
+      "isHTTPS": true,
+      "hasSSLCertificate": true,
+      "GoogleSafePassed": true,
+      "VirusTotalDetections": 0,
+      "InURLHaus": false,
+      "isTemporaryDomain": false,
+      "isBlackListedinIpSets": false,
+      "isDirectIP": false,
+      "hasMaliciousExtension": false,
+      "target_urls": []
+    }
+  },
+  "e3e71cd35eaf061951661a0be87e1830": {
+    "timestamp": "2025-11-03T16:43:40.794269",
+    "url": "https://www.thecore.in",
+    "result": {
+      "SCORE": 0,
+      "RISK_LEVEL": "SAFE",
+      "CONFIDENCE": 60.0,
+      "checks_completed": 6,
+      "InTop1Million": false,
+      "InURLVoidBlackList": false,
+      "isHTTPS": true,
+      "hasSSLCertificate": true,
+      "GoogleSafePassed": true,
+      "VirusTotalDetections": 0,
+      "InURLHaus": false,
+      "isTemporaryDomain": false,
+      "isBlackListedinIpSets": false,
+      "isDirectIP": false,
+      "hasMaliciousExtension": false,
+      "target_urls": []
+    }
+  }
+}
