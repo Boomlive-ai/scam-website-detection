@@ -1,68 +1,175 @@
 {
-  "6ac8885e843d056ff36a14754227942d": {
-    "timestamp": "2025-11-03T16:42:04.006874",
-    "url": "https://broadband.mvt.so",
+  "6ade82b4844330b99945558a7ef38ef1": {
+    "timestamp": "2025-11-19T16:15:35.640735",
+    "url": "https://recipefinder.indiafoodnetwork.in/",
     "result": {
-      "SCORE": 50,
-      "RISK_LEVEL": "MEDIUM",
-      "CONFIDENCE": 60.0,
-      "checks_completed": 6,
-      "InTop1Million": false,
-      "InURLVoidBlackList": false,
-      "isHTTPS": true,
-      "hasSSLCertificate": true,
-      "GoogleSafePassed": true,
-      "VirusTotalDetections": 7,
-      "InURLHaus": false,
-      "isTemporaryDomain": false,
-      "isBlackListedinIpSets": false,
-      "isDirectIP": false,
-      "hasMaliciousExtension": false,
-      "target_urls": []
-    }
-  },
-  "5fd41815f1df5dbbfa4e69fdab03efb6": {
-    "timestamp": "2025-11-03T16:42:27.172096",
-    "url": "https://www.siteadvisor.com",
-    "result": {
-      "SCORE": 5,
-      "RISK_LEVEL": "SAFE",
+      "SCORE": 95,
+      "RISK_LEVEL": "TRUSTED - Very Likely Safe",
+      "RISK_DESCRIPTION": "\u2705 TRUSTED - Verified platform",
       "CONFIDENCE": 100,
-      "checks_completed": 2,
-      "InTop1Million": true,
-      "InURLVoidBlackList": false,
-      "isHTTPS": true,
-      "hasSSLCertificate": true,
-      "GoogleSafePassed": true,
-      "VirusTotalDetections": 0,
-      "InURLHaus": false,
-      "isTemporaryDomain": false,
-      "isBlackListedinIpSets": false,
-      "isDirectIP": false,
-      "hasMaliciousExtension": false,
+      "positive_highlights": [
+        "Verified trusted platform",
+        "High reputation"
+      ],
+      "negative_highlights": [],
+      "details": {
+        "popularity": "Trusted platform",
+        "security": "HTTPS, Valid SSL",
+        "subdomain": "Subdomain: recipefinder.indiafoodnetwork.in",
+        "verdict": "Whitelisted domain"
+      },
+      "checks_performed": 1,
+      "positive_score": 95.0,
+      "negative_score": 0.0,
       "target_urls": []
     }
   },
-  "e3e71cd35eaf061951661a0be87e1830": {
-    "timestamp": "2025-11-03T16:43:40.794269",
-    "url": "https://www.thecore.in",
+  "0e5a36266df427f3f7bd4debc8fdb39f": {
+    "timestamp": "2025-11-19T16:15:54.957760",
+    "url": "https://scam.recipefinder.indiafoodnetwork.in/",
+    "result": {
+      "SCORE": 1,
+      "RISK_LEVEL": "HIGH RISK - Suspicious Subdomain",
+      "RISK_DESCRIPTION": "\ud83d\udfe0 RISKY - Malicious subdomain on trusted apex domain",
+      "CONFIDENCE": 92,
+      "positive_highlights": [],
+      "negative_highlights": [
+        "PHISHING: scam.recipefinder.indiafoodnetwork.in (suspicious: 'scam')"
+      ],
+      "details": {
+        "subdomain": "PHISHING: scam.recipefinder.indiafoodnetwork.in (suspicious: 'scam')",
+        "verdict": "PHISHING RISK: Malicious subdomain detected"
+      },
+      "checks_performed": 1,
+      "positive_score": 0.0,
+      "negative_score": 85,
+      "target_urls": []
+    }
+  },
+  "f4339feaf8db8894b891a20ae433cfcb": {
+    "timestamp": "2025-11-19T16:19:53.485876",
+    "url": "https://jio-rechrges.com",
     "result": {
       "SCORE": 0,
-      "RISK_LEVEL": "SAFE",
-      "CONFIDENCE": 60.0,
-      "checks_completed": 6,
-      "InTop1Million": false,
-      "InURLVoidBlackList": false,
-      "isHTTPS": true,
-      "hasSSLCertificate": true,
-      "GoogleSafePassed": true,
-      "VirusTotalDetections": 0,
-      "InURLHaus": false,
-      "isTemporaryDomain": false,
-      "isBlackListedinIpSets": false,
-      "isDirectIP": false,
-      "hasMaliciousExtension": false,
+      "RISK_LEVEL": "CRITICAL RISK - Dangerous",
+      "RISK_DESCRIPTION": "\ud83d\udd34 DANGEROUS - Do not proceed",
+      "CONFIDENCE": 36,
+      "positive_highlights": [
+        "Secure connection"
+      ],
+      "negative_highlights": [
+        "Blacklisted"
+      ],
+      "details": {
+        "subdomain": "Domain: jio-rechrges.com",
+        "security": "HTTPS, Valid SSL",
+        "performance": "Fast (0.73s)",
+        "age": "Age check failed",
+        "contact": "No contact info",
+        "social_media": "No social media",
+        "technology": "Basic tech",
+        "payments": "No payment info",
+        "blacklists": "VirusTotal: 7",
+        "redirects": "Direct access",
+        "user_reports": "No community reports",
+        "location": "Location OK",
+        "patterns": "Normal patterns",
+        "seo": "Blocks search engines",
+        "meta_tags": "Missing/poor title",
+        "whois": "Visible ownership",
+        "ecommerce": "No e-commerce platform",
+        "ml": "ML: malicious"
+      },
+      "checks_performed": 4,
+      "positive_score": 32.5,
+      "negative_score": 86.0,
       "target_urls": []
+    }
+  },
+  "f698b109452f47b1c332ef82d1846a8a": {
+    "timestamp": "2025-11-19T16:21:04.460857",
+    "url": "https://offer.jio-recharge.site",
+    "result": {
+      "SCORE": 25,
+      "RISK_LEVEL": "UNCERTAIN - Manual Review Recommended",
+      "RISK_DESCRIPTION": "\u26aa LOW CONFIDENCE - Not enough data for confident assessment",
+      "CONFIDENCE": 28,
+      "positive_highlights": [],
+      "negative_highlights": [
+        "No SSL encryption"
+      ],
+      "details": {
+        "subdomain": "Domain: jio-recharge.site",
+        "security": "No SSL",
+        "performance": "Failed to load",
+        "age": "Age check failed",
+        "contact": "Contact check failed",
+        "social_media": "Social check failed",
+        "technology": "Tech check failed",
+        "payments": "Payment check failed",
+        "blacklists": "Clean",
+        "redirects": "Redirect check failed",
+        "user_reports": "No community reports",
+        "location": "Location check failed",
+        "patterns": "Normal patterns",
+        "seo": "SEO check skipped",
+        "meta_tags": "Meta check failed",
+        "whois": "Visible ownership",
+        "ecommerce": "E-commerce check failed",
+        "ml": "ML: clean"
+      },
+      "checks_performed": 2,
+      "positive_score": 0,
+      "negative_score": 25.0,
+      "target_urls": []
+    }
+  },
+  "f938306c7316698af4b9f736ca03ea75": {
+    "timestamp": "2025-11-19T16:23:51.087325",
+    "url": "http://likeme.com",
+    "result": {
+      "SCORE": 27,
+      "RISK_LEVEL": "CRITICAL RISK - Dangerous",
+      "RISK_DESCRIPTION": "\ud83d\udd34 DANGEROUS - Do not proceed",
+      "CONFIDENCE": 36,
+      "positive_highlights": [],
+      "negative_highlights": [
+        "No SSL encryption"
+      ],
+      "details": {
+        "subdomain": "Domain: likeme.com",
+        "security": "No SSL",
+        "performance": "OK (2.20s)",
+        "age": "Age check failed",
+        "contact": "No contact info",
+        "social_media": "No social media",
+        "technology": "Cloudflare CDN",
+        "payments": "No payment info",
+        "blacklists": "Clean",
+        "redirects": "Direct access",
+        "user_reports": "No community reports",
+        "location": "Location OK",
+        "patterns": "Normal patterns",
+        "seo": "SEO-friendly",
+        "meta_tags": "Missing/poor title",
+        "whois": "Visible ownership",
+        "ecommerce": "No e-commerce platform",
+        "ml": "ML: malicious"
+      },
+      "checks_performed": 4,
+      "positive_score": 3.5,
+      "negative_score": 26.0,
+      "target_urls": [
+        "likrete.com",
+        "likemag.com",
+        "liveme.com",
+        "likeemee.com",
+        "likewed.com",
+        "livemec.com",
+        "likeeer.com",
+        "flikeve.com",
+        "linenme.com"
+      ]
     }
   }
 }
